@@ -5,9 +5,9 @@
 layout: home
 ---
 <figure>
-   <img src="image002.jpg" style="max-width: 500px;"
+   <img src="image002.jpg" style="max-width: 750px;"
       alt="CQPS logo" />
  </figure>
  <br>
-<font size="+2">Welcome to the UEA Centre for Quantum Photonics and Science seminar series webpage!</font>
+<font size="+2">Welcome to the UEA Centre for Photonics and Quantum Science seminar series webpage!</font>
 <br>

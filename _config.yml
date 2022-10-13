@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UEA Centre for Quantum Photonics and Science - seminars
+title: UEA Centre for Photonics and Quantum Science - seminars
 email: d.proment@uea.ac.uk k.forbes@uea.ac.uk
 #email: andrew.baggaley@newcastle.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the UEA Centre for Quantum Photonics and Science seminar series webpage.
+  Welcome to the UEA Centre for Photonics and Quantum Science seminar series webpage.
   You can find here news about the seminars we run.
   Please contact the organisers for inquiries. 
 baseurl: "/" # the subpath of your site, e.g. /blog
